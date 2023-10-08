@@ -1,4 +1,4 @@
-public class Integer {
+public class Number {
     public static void main(String[] args) {
         byte iniByte = 127;
         short iniShort = 32000;
