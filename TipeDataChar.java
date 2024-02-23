@@ -5,6 +5,6 @@ public class TipeDataChar {
         char d = 'D';
         char i = 'I';
 
-        System.out.print(a+" "+r+" "+d+" "+i);
+        System.out.print(a + " " + r + " " + d + " " + i);
     }
 }
